@@ -8,7 +8,7 @@
   <body></body>
 
   <script>
-    console.log("AH");
+    // The only reason this HTML exists is to send the web event to change the dummy_variable
     EventBridge.emitWebEvent(JSON.stringify({ action: "change_to_true" }));
   </script>
 </html>
