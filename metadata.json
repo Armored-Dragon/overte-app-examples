@@ -1,7 +1,8 @@
 [
   {
     "name": "Crasher",
-    "directory": "/crasher-1",
+    "directory": "crasher-1",
+    "script": "_crasher1.js",
     "icon": "icon.png",
     "description": "Crashes your game! :D"
   }
